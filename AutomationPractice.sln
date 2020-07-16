@@ -8,9 +8,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomationPracticeTests", "AutomationPracticeTests\AutomationPracticeTests.csproj", "{048DF798-4334-49BF-B753-362041C9DB03}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5167480C-03A7-4903-A99E-1FE792701ECB}"
-	ProjectSection(SolutionItems) = preProject
-		test.testsettings = test.testsettings
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
